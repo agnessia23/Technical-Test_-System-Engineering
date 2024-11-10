@@ -13,7 +13,9 @@ Repository ini berisi skrip Python untuk menghasilkan deret bilangan aritmatika 
 ## Test 2
 Cara menggunakan modul
 **1. Clone Repository**
-git clone https://github.com/agnessia23/odoo_room_reservation.git
+``` bash
+git clone https://github.com/agnessia23/Technical-Test_-System-Engineering.git
+
 **2. setup Docker**
 cd config
 docker-compose up -d

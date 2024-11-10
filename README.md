@@ -12,15 +12,11 @@ Repository ini berisi skrip Python untuk menghasilkan deret bilangan aritmatika 
 
 ## Test 2
 Cara menggunakan modul
-**1. Clone Repository**
-``` bash
-git clone https://github.com/agnessia23/Technical-Test_-System-Engineering.git
+1. Clone Repository
+2. Setup Docker
+3. Konfigurasi odoo.conf
+4. Install Modul di Odoo
 
-**2. setup Docker**
-cd config
-docker-compose up -d
-**3. Konfigurasi odoo.conf**
-**4. Install Modul di Odoo**
 Masuk ke Odoo melalui browser dengan alamat: http://localhost:8070.
 Login sebagai Administrator.
 Buka menu Aplikasi, klik Perbarui Daftar Aplikasi.
